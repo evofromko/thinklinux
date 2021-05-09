@@ -1,0 +1,2 @@
+# thinklinux
+ThinkPad Linux
